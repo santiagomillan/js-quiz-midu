@@ -54,7 +54,18 @@ function App() {
             style={{ color: "yellow" }}
             href="https://github.com/midudev/aprendiendo-react/tree/master/projects/13-javascript-quiz-con-zustand"
           >
-            Ir al código
+            Ir al Tutorial
+          </a>
+        </strong>
+        <strong
+          style={{ display: "block", fontSize: "14px", marginTop: "48px" }}
+        >
+          Agradecimientos -{" "}
+          <a
+            style={{ color: "yellow" }}
+            href="https://www.youtube.com/watch?v=p2wF2wRjcN0"
+          >
+            midu
           </a>
         </strong>
       </Container>
